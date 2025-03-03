@@ -62,16 +62,16 @@ This analysis includes key data visualizations:
 ![Average Session Duration by Bounce Rate](bouncesession-rate.png)
 
 ### Bounce Rate vs. Conversion Rate
-![Bounce Rate and conversion rate over time](bounceconversion-rate.png)
+![Bounce Rate and conversion rate over time](Images/bounceconversion-rate.png)
 
 ### Cart Abandonment Trends
-![Cart Addition by Conversion rate](cart-abandonment.png)
+![Cart Addition by Conversion rate](Images/cart-abandonment.png)
 
 ### Conversion Rate vs. Hour by Day
-![Conversion rate by Hour of Day](conversionhour-day.png)
+![Conversion rate by Hour of Day](Images/conversionhour-day.png)
 
 ### User Feedback Sentiment Analysis
-![User Feedback](user-feedback.png)
+![User Feedback](Images/user-feedback.png)
 
 ## Recommendations
 1. **Improve Search & Navigation**
