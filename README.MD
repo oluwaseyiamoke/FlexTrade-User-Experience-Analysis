@@ -97,3 +97,5 @@ This analysis includes key data visualizations:
 ---
 
 This project provides a **comprehensive evaluation of FlexTrade’s UX challenges**, delivering **data-backed solutions** to enhance customer experience, increase conversions, and drive business growth.
+
+[View the FlexTrade User Experience Analysis Overview PDF](./FlexTrade_User_Experience_Analysis_Overview.pdf)
