@@ -56,10 +56,10 @@ The dataset was derived from:
 This analysis includes key data visualizations:
 
 ### Dashboard Screenshot
-![Dashboard Screenshot](dashboard-screenshot.png)
+![Dashboard Screenshot](Images/dashboard-screenshot.png)
 
 ### Bounce Rate vs. Session Duration
-![Average Session Duration by Bounce Rate](bouncesession-rate.png)
+![Average Session Duration by Bounce Rate](Images/bouncesession-rate.png)
 
 ### Bounce Rate vs. Conversion Rate
 ![Bounce Rate and conversion rate over time](Images/bounceconversion-rate.png)
